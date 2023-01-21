@@ -1,0 +1,282 @@
+{
+    "Mont Saint Michel": {
+        "lat": "48.6359541",
+        "lon": "-1.511459954959514",
+        "avg_temp": 5.766249999999999,
+        "avg_wind": 4.22375,
+        "avg_clouds": 58.125,
+        "avg_humidity": 67.125
+    },
+    "St Malo": {
+        "lat": "48.649518",
+        "lon": "-2.0260409",
+        "avg_temp": 6.16875,
+        "avg_wind": 5.916250000000001,
+        "avg_clouds": 68.75,
+        "avg_humidity": 68.5
+    },
+    "Bayeux": {
+        "lat": "49.2764624",
+        "lon": "-0.7024738",
+        "avg_temp": 5.206250000000001,
+        "avg_wind": 4.6450000000000005,
+        "avg_clouds": 75.125,
+        "avg_humidity": 73.0
+    },
+    "Le Havre": {
+        "lat": "49.4938975",
+        "lon": "0.1079732",
+        "avg_temp": 5.297499999999999,
+        "avg_wind": 5.4725,
+        "avg_clouds": 79.125,
+        "avg_humidity": 72.5
+    },
+    "Rouen": {
+        "lat": "49.4404591",
+        "lon": "1.0939658",
+        "avg_temp": 4.797499999999999,
+        "avg_wind": 3.92375,
+        "avg_clouds": 68.75,
+        "avg_humidity": 73.125
+    },
+    "Paris": {
+        "lat": "48.8588897",
+        "lon": "2.3200410217200766",
+        "avg_temp": 4.91,
+        "avg_wind": 3.2675,
+        "avg_clouds": 59.0,
+        "avg_humidity": 67.625
+    },
+    "Amiens": {
+        "lat": "49.8941708",
+        "lon": "2.2956951",
+        "avg_temp": 4.671250000000001,
+        "avg_wind": 4.24875,
+        "avg_clouds": 74.75,
+        "avg_humidity": 73.625
+    },
+    "Lille": {
+        "lat": "50.6365654",
+        "lon": "3.0635282",
+        "avg_temp": 4.26,
+        "avg_wind": 3.78,
+        "avg_clouds": 74.5,
+        "avg_humidity": 72.5
+    },
+    "Strasbourg": {
+        "lat": "48.584614",
+        "lon": "7.7507127",
+        "avg_temp": 4.3625,
+        "avg_wind": 2.555,
+        "avg_clouds": 76.875,
+        "avg_humidity": 78.875
+    },
+    "Chateau du Haut Koenigsbourg": {
+        "lat": "48.249489800000006",
+        "lon": "7.34429620253195",
+        "avg_temp": 1.685,
+        "avg_wind": 1.6962500000000003,
+        "avg_clouds": 80.625,
+        "avg_humidity": 82.125
+    },
+    "Colmar": {
+        "lat": "48.0777517",
+        "lon": "7.3579641",
+        "avg_temp": 4.510000000000001,
+        "avg_wind": 2.00375,
+        "avg_clouds": 85.5,
+        "avg_humidity": 83.875
+    },
+    "Eguisheim": {
+        "lat": "48.0447968",
+        "lon": "7.3079618",
+        "avg_temp": 4.545,
+        "avg_wind": 1.8399999999999999,
+        "avg_clouds": 86.625,
+        "avg_humidity": 84.75
+    },
+    "Besancon": {
+        "lat": "47.2380222",
+        "lon": "6.0243622",
+        "avg_temp": 5.584999999999999,
+        "avg_wind": 2.675,
+        "avg_clouds": 81.75,
+        "avg_humidity": 84.125
+    },
+    "Dijon": {
+        "lat": "47.3215806",
+        "lon": "5.0414701",
+        "avg_temp": 4.6275,
+        "avg_wind": 3.3937500000000003,
+        "avg_clouds": 82.5,
+        "avg_humidity": 83.75
+    },
+    "Annecy": {
+        "lat": "45.8992348",
+        "lon": "6.1288847",
+        "avg_temp": 6.34625,
+        "avg_wind": 1.70875,
+        "avg_clouds": 85.125,
+        "avg_humidity": 81.25
+    },
+    "Grenoble": {
+        "lat": "45.1875602",
+        "lon": "5.7357819",
+        "avg_temp": 9.00625,
+        "avg_wind": 2.1075,
+        "avg_clouds": 79.75,
+        "avg_humidity": 78.0
+    },
+    "Lyon": {
+        "lat": "45.7578137",
+        "lon": "4.8320114",
+        "avg_temp": 6.64875,
+        "avg_wind": 2.925,
+        "avg_clouds": 83.0,
+        "avg_humidity": 76.125
+    },
+    "Gorges du Verdon": {
+        "lat": "43.7496562",
+        "lon": "6.3285616",
+        "avg_temp": 7.19125,
+        "avg_wind": 2.54,
+        "avg_clouds": 83.375,
+        "avg_humidity": 77.875
+    },
+    "Bormes les Mimosas": {
+        "lat": "43.1506968",
+        "lon": "6.3419285",
+        "avg_temp": 12.185,
+        "avg_wind": 5.831250000000001,
+        "avg_clouds": 80.0,
+        "avg_humidity": 74.0
+    },
+    "Cassis": {
+        "lat": "43.2140359",
+        "lon": "5.5396318",
+        "avg_temp": 12.553749999999999,
+        "avg_wind": 6.606249999999999,
+        "avg_clouds": 76.0,
+        "avg_humidity": 70.75
+    },
+    "Marseille": {
+        "lat": "43.2961743",
+        "lon": "5.3699525",
+        "avg_temp": 12.365,
+        "avg_wind": 6.97,
+        "avg_clouds": 75.0,
+        "avg_humidity": 70.125
+    },
+    "Aix en Provence": {
+        "lat": "43.5298424",
+        "lon": "5.4474738",
+        "avg_temp": 10.76125,
+        "avg_wind": 4.1899999999999995,
+        "avg_clouds": 78.125,
+        "avg_humidity": 70.625
+    },
+    "Avignon": {
+        "lat": "43.9492493",
+        "lon": "4.8059012",
+        "avg_temp": 9.53875,
+        "avg_wind": 5.99625,
+        "avg_clouds": 75.0,
+        "avg_humidity": 74.0
+    },
+    "Uzes": {
+        "lat": "44.0121279",
+        "lon": "4.4196718",
+        "avg_temp": 8.620000000000001,
+        "avg_wind": 6.1137500000000005,
+        "avg_clouds": 77.0,
+        "avg_humidity": 77.625
+    },
+    "Nimes": {
+        "lat": "43.8374249",
+        "lon": "4.3600687",
+        "avg_temp": 9.80375,
+        "avg_wind": 5.696250000000001,
+        "avg_clouds": 73.5,
+        "avg_humidity": 74.25
+    },
+    "Aigues Mortes": {
+        "lat": "43.5658225",
+        "lon": "4.1912837",
+        "avg_temp": 10.8725,
+        "avg_wind": 7.061250000000001,
+        "avg_clouds": 77.125,
+        "avg_humidity": 72.625
+    },
+    "Saintes Maries de la mer": {
+        "lat": "43.4522771",
+        "lon": "4.4287172",
+        "avg_temp": 11.10625,
+        "avg_wind": 7.919999999999999,
+        "avg_clouds": 76.0,
+        "avg_humidity": 72.25
+    },
+    "Collioure": {
+        "lat": "42.52505",
+        "lon": "3.0831554",
+        "avg_temp": 12.311250000000001,
+        "avg_wind": 5.12875,
+        "avg_clouds": 70.5,
+        "avg_humidity": 65.125
+    },
+    "Carcassonne": {
+        "lat": "43.2130358",
+        "lon": "2.3491069",
+        "avg_temp": 9.293750000000001,
+        "avg_wind": 4.33875,
+        "avg_clouds": 76.75,
+        "avg_humidity": 68.375
+    },
+    "Ariege": {
+        "lat": "42.9455368",
+        "lon": "1.4065544156065486",
+        "avg_temp": 4.4037500000000005,
+        "avg_wind": 2.15375,
+        "avg_clouds": 79.125,
+        "avg_humidity": 68.25
+    },
+    "Toulouse": {
+        "lat": "43.6044622",
+        "lon": "1.4442469",
+        "avg_temp": 8.4925,
+        "avg_wind": 4.28125,
+        "avg_clouds": 73.25,
+        "avg_humidity": 68.0
+    },
+    "Montauban": {
+        "lat": "44.0175835",
+        "lon": "1.3549991",
+        "avg_temp": 8.56,
+        "avg_wind": 3.6275,
+        "avg_clouds": 76.625,
+        "avg_humidity": 69.625
+    },
+    "Biarritz": {
+        "lat": "43.471143749999996",
+        "lon": "-1.552726590666314",
+        "avg_temp": 9.770000000000001,
+        "avg_wind": 3.97875,
+        "avg_clouds": 81.125,
+        "avg_humidity": 80.0
+    },
+    "Bayonne": {
+        "lat": "43.4945144",
+        "lon": "-1.4736657",
+        "avg_temp": 9.95875,
+        "avg_wind": 3.7912500000000002,
+        "avg_clouds": 81.875,
+        "avg_humidity": 81.125
+    },
+    "La Rochelle": {
+        "lat": "46.1591126",
+        "lon": "-1.1520434",
+        "avg_temp": 6.720000000000001,
+        "avg_wind": 6.23875,
+        "avg_clouds": 75.375,
+        "avg_humidity": 74.75
+    }
+}
